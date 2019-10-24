@@ -28,4 +28,10 @@ img{
 h5{
   font-size: 8rem;
   text-align: center;
+  text-shadow: 2px 2px gray;
+}
+
+#header{
+  background-image: url("https://images-na.ssl-images-amazon.com/images/I/51XmjL0YehL._SX425_.jpg");
+
 }
